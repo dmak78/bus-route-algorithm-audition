@@ -1,0 +1,1900 @@
+{
+  "stops": [
+    "TC",
+    "PARKING",
+    "BUILDING A",
+    "BUILDING B",
+    "BUILDING C",
+    "PARKING",
+    "TC"
+  ],
+  "schedule": [
+    [
+      {
+        "name": "TC",
+        "stopTime": "7:00",
+        "utcTime": "2020-03-19 14:00:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "BUILDING A",
+        "stopTime": "7:19",
+        "utcTime": "2020-03-19 14:19:00.0000000"
+      },
+      {
+        "name": "BUILDING B",
+        "stopTime": "7:21",
+        "utcTime": "2020-03-19 14:21:00.0000000"
+      },
+      {
+        "name": "BUILDING C",
+        "stopTime": "7:23",
+        "utcTime": "2020-03-19 14:23:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "TC",
+        "stopTime": "7:43",
+        "utcTime": "2020-03-19 14:43:00.0000000"
+      }
+    ],
+    [
+      {
+        "name": "TC",
+        "stopTime": "7:15",
+        "utcTime": "2020-03-19 14:15:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "BUILDING A",
+        "stopTime": "7:34",
+        "utcTime": "2020-03-19 14:34:00.0000000"
+      },
+      {
+        "name": "BUILDING B",
+        "stopTime": "7:36",
+        "utcTime": "2020-03-19 14:36:00.0000000"
+      },
+      {
+        "name": "BUILDING C",
+        "stopTime": "7:38",
+        "utcTime": "2020-03-19 14:38:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "TC",
+        "stopTime": "7:58",
+        "utcTime": "2020-03-19 14:58:00.0000000"
+      }
+    ],
+    [
+      {
+        "name": "TC",
+        "stopTime": "7:30",
+        "utcTime": "2020-03-19 14:30:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "BUILDING A",
+        "stopTime": "7:49",
+        "utcTime": "2020-03-19 14:49:00.0000000"
+      },
+      {
+        "name": "BUILDING B",
+        "stopTime": "7:51",
+        "utcTime": "2020-03-19 14:51:00.0000000"
+      },
+      {
+        "name": "BUILDING C",
+        "stopTime": "7:53",
+        "utcTime": "2020-03-19 14:53:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "TC",
+        "stopTime": "8:13",
+        "utcTime": "2020-03-19 15:13:00.0000000"
+      }
+    ],
+    [
+      {
+        "name": "TC",
+        "stopTime": "7:45",
+        "utcTime": "2020-03-19 14:45:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "BUILDING A",
+        "stopTime": "8:04",
+        "utcTime": "2020-03-19 15:04:00.0000000"
+      },
+      {
+        "name": "BUILDING B",
+        "stopTime": "8:06",
+        "utcTime": "2020-03-19 15:06:00.0000000"
+      },
+      {
+        "name": "BUILDING C",
+        "stopTime": "8:08",
+        "utcTime": "2020-03-19 15:08:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "TC",
+        "stopTime": "8:28",
+        "utcTime": "2020-03-19 15:28:00.0000000"
+      }
+    ],
+    [
+      {
+        "name": "TC",
+        "stopTime": "8:00",
+        "utcTime": "2020-03-19 15:00:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "BUILDING A",
+        "stopTime": "8:19",
+        "utcTime": "2020-03-19 15:19:00.0000000"
+      },
+      {
+        "name": "BUILDING B",
+        "stopTime": "8:21",
+        "utcTime": "2020-03-19 15:21:00.0000000"
+      },
+      {
+        "name": "BUILDING C",
+        "stopTime": "8:23",
+        "utcTime": "2020-03-19 15:23:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "TC",
+        "stopTime": "8:43",
+        "utcTime": "2020-03-19 15:43:00.0000000"
+      }
+    ],
+    [
+      {
+        "name": "TC",
+        "stopTime": "8:15",
+        "utcTime": "2020-03-19 15:15:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "BUILDING A",
+        "stopTime": "8:34",
+        "utcTime": "2020-03-19 15:34:00.0000000"
+      },
+      {
+        "name": "BUILDING B",
+        "stopTime": "8:36",
+        "utcTime": "2020-03-19 15:36:00.0000000"
+      },
+      {
+        "name": "BUILDING C",
+        "stopTime": "8:38",
+        "utcTime": "2020-03-19 15:38:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "TC",
+        "stopTime": "8:58",
+        "utcTime": "2020-03-19 15:58:00.0000000"
+      }
+    ],
+    [
+      {
+        "name": "TC",
+        "stopTime": "8:30",
+        "utcTime": "2020-03-19 15:30:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "BUILDING A",
+        "stopTime": "8:49",
+        "utcTime": "2020-03-19 15:49:00.0000000"
+      },
+      {
+        "name": "BUILDING B",
+        "stopTime": "8:51",
+        "utcTime": "2020-03-19 15:51:00.0000000"
+      },
+      {
+        "name": "BUILDING C",
+        "stopTime": "8:53",
+        "utcTime": "2020-03-19 15:53:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "TC",
+        "stopTime": "9:13",
+        "utcTime": "2020-03-19 16:13:00.0000000"
+      }
+    ],
+    [
+      {
+        "name": "TC",
+        "stopTime": "8:45",
+        "utcTime": "2020-03-19 15:45:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "BUILDING A",
+        "stopTime": "9:04",
+        "utcTime": "2020-03-19 16:04:00.0000000"
+      },
+      {
+        "name": "BUILDING B",
+        "stopTime": "9:06",
+        "utcTime": "2020-03-19 16:06:00.0000000"
+      },
+      {
+        "name": "BUILDING C",
+        "stopTime": "9:08",
+        "utcTime": "2020-03-19 16:08:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "TC",
+        "stopTime": "9:28",
+        "utcTime": "2020-03-19 16:28:00.0000000"
+      }
+    ],
+    [
+      {
+        "name": "TC",
+        "stopTime": "9:00",
+        "utcTime": "2020-03-19 16:00:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "BUILDING A",
+        "stopTime": "9:19",
+        "utcTime": "2020-03-19 16:19:00.0000000"
+      },
+      {
+        "name": "BUILDING B",
+        "stopTime": "9:21",
+        "utcTime": "2020-03-19 16:21:00.0000000"
+      },
+      {
+        "name": "BUILDING C",
+        "stopTime": "9:23",
+        "utcTime": "2020-03-19 16:23:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "TC",
+        "stopTime": "9:43",
+        "utcTime": "2020-03-19 16:43:00.0000000"
+      }
+    ],
+    [
+      {
+        "name": "TC",
+        "stopTime": "9:15",
+        "utcTime": "2020-03-19 16:15:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "BUILDING A",
+        "stopTime": "9:34",
+        "utcTime": "2020-03-19 16:34:00.0000000"
+      },
+      {
+        "name": "BUILDING B",
+        "stopTime": "9:36",
+        "utcTime": "2020-03-19 16:36:00.0000000"
+      },
+      {
+        "name": "BUILDING C",
+        "stopTime": "9:38",
+        "utcTime": "2020-03-19 16:38:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "TC",
+        "stopTime": "9:58",
+        "utcTime": "2020-03-19 16:58:00.0000000"
+      }
+    ],
+    [
+      {
+        "name": "TC",
+        "stopTime": "9:30",
+        "utcTime": "2020-03-19 16:30:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "BUILDING A",
+        "stopTime": "9:49",
+        "utcTime": "2020-03-19 16:49:00.0000000"
+      },
+      {
+        "name": "BUILDING B",
+        "stopTime": "9:51",
+        "utcTime": "2020-03-19 16:51:00.0000000"
+      },
+      {
+        "name": "BUILDING C",
+        "stopTime": "9:53",
+        "utcTime": "2020-03-19 16:53:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "TC",
+        "stopTime": "10:13",
+        "utcTime": "2020-03-19 17:13:00.0000000"
+      }
+    ],
+    [
+      {
+        "name": "TC",
+        "stopTime": "9:45",
+        "utcTime": "2020-03-19 16:45:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "BUILDING A",
+        "stopTime": "10:04",
+        "utcTime": "2020-03-19 17:04:00.0000000"
+      },
+      {
+        "name": "BUILDING B",
+        "stopTime": "10:06",
+        "utcTime": "2020-03-19 17:06:00.0000000"
+      },
+      {
+        "name": "BUILDING C",
+        "stopTime": "10:08",
+        "utcTime": "2020-03-19 17:08:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "TC",
+        "stopTime": "10:28",
+        "utcTime": "2020-03-19 17:28:00.0000000"
+      }
+    ],
+    [
+      {
+        "name": "TC",
+        "stopTime": "10:00",
+        "utcTime": "2020-03-19 17:00:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "BUILDING A",
+        "stopTime": "10:19",
+        "utcTime": "2020-03-19 17:19:00.0000000"
+      },
+      {
+        "name": "BUILDING B",
+        "stopTime": "10:21",
+        "utcTime": "2020-03-19 17:21:00.0000000"
+      },
+      {
+        "name": "BUILDING C",
+        "stopTime": "10:23",
+        "utcTime": "2020-03-19 17:23:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "TC",
+        "stopTime": "-",
+        "utcTime": "-"
+      }
+    ],
+    [
+      {
+        "name": "TC",
+        "stopTime": "10:15",
+        "utcTime": "2020-03-19 17:15:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "BUILDING A",
+        "stopTime": "10:34",
+        "utcTime": "2020-03-19 17:34:00.0000000"
+      },
+      {
+        "name": "BUILDING B",
+        "stopTime": "10:36",
+        "utcTime": "2020-03-19 17:36:00.0000000"
+      },
+      {
+        "name": "BUILDING C",
+        "stopTime": "10:38",
+        "utcTime": "2020-03-19 17:38:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "TC",
+        "stopTime": "-",
+        "utcTime": "-"
+      }
+    ],
+    [
+      {
+        "name": "TC",
+        "stopTime": "10:22",
+        "utcTime": "2020-03-19 17:22:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "BUILDING A",
+        "stopTime": "10:36",
+        "utcTime": "2020-03-19 17:36:00.0000000"
+      },
+      {
+        "name": "BUILDING B",
+        "stopTime": "10:38",
+        "utcTime": "2020-03-19 17:38:00.0000000"
+      },
+      {
+        "name": "BUILDING C",
+        "stopTime": "10:40",
+        "utcTime": "2020-03-19 17:40:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "TC",
+        "stopTime": "-",
+        "utcTime": "-"
+      }
+    ],
+    [
+      {
+        "name": "TC",
+        "stopTime": "10:30",
+        "utcTime": "2020-03-19 17:30:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "BUILDING A",
+        "stopTime": "10:49",
+        "utcTime": "2020-03-19 17:49:00.0000000"
+      },
+      {
+        "name": "BUILDING B",
+        "stopTime": "10:51",
+        "utcTime": "2020-03-19 17:51:00.0000000"
+      },
+      {
+        "name": "BUILDING C",
+        "stopTime": "10:53",
+        "utcTime": "2020-03-19 17:53:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "TC",
+        "stopTime": "-",
+        "utcTime": "-"
+      }
+    ],
+    [
+      {
+        "name": "TC",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "BUILDING A",
+        "stopTime": "11:05",
+        "utcTime": "2020-03-19 18:05:00.0000000"
+      },
+      {
+        "name": "BUILDING B",
+        "stopTime": "11:07",
+        "utcTime": "2020-03-19 18:07:00.0000000"
+      },
+      {
+        "name": "BUILDING C",
+        "stopTime": "11:09",
+        "utcTime": "2020-03-19 18:09:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "11:29",
+        "utcTime": "2020-03-19 18:29:00.0000000"
+      },
+      {
+        "name": "TC",
+        "stopTime": "-",
+        "utcTime": "-"
+      }
+    ],
+    [
+      {
+        "name": "TC",
+        "stopTime": "11:02",
+        "utcTime": "2020-03-19 18:02:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "BUILDING A",
+        "stopTime": "11:16",
+        "utcTime": "2020-03-19 18:16:00.0000000"
+      },
+      {
+        "name": "BUILDING B",
+        "stopTime": "11:18",
+        "utcTime": "2020-03-19 18:18:00.0000000"
+      },
+      {
+        "name": "BUILDING C",
+        "stopTime": "11:20",
+        "utcTime": "2020-03-19 18:20:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "TC",
+        "stopTime": "-",
+        "utcTime": "-"
+      }
+    ],
+    [
+      {
+        "name": "TC",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "BUILDING A",
+        "stopTime": "11:20",
+        "utcTime": "2020-03-19 18:20:00.0000000"
+      },
+      {
+        "name": "BUILDING B",
+        "stopTime": "11:22",
+        "utcTime": "2020-03-19 18:22:00.0000000"
+      },
+      {
+        "name": "BUILDING C",
+        "stopTime": "11:24",
+        "utcTime": "2020-03-19 18:24:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "11:44",
+        "utcTime": "2020-03-19 18:44:00.0000000"
+      },
+      {
+        "name": "TC",
+        "stopTime": "-",
+        "utcTime": "-"
+      }
+    ],
+    [
+      {
+        "name": "TC",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "BUILDING A",
+        "stopTime": "11:35",
+        "utcTime": "2020-03-19 18:35:00.0000000"
+      },
+      {
+        "name": "BUILDING B",
+        "stopTime": "11:37",
+        "utcTime": "2020-03-19 18:37:00.0000000"
+      },
+      {
+        "name": "BUILDING C",
+        "stopTime": "11:39",
+        "utcTime": "2020-03-19 18:39:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "11:59",
+        "utcTime": "2020-03-19 18:59:00.0000000"
+      },
+      {
+        "name": "TC",
+        "stopTime": "-",
+        "utcTime": "-"
+      }
+    ],
+    [
+      {
+        "name": "TC",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "11:31",
+        "utcTime": "2020-03-19 18:31:00.0000000"
+      },
+      {
+        "name": "BUILDING A",
+        "stopTime": "11:50",
+        "utcTime": "2020-03-19 18:50:00.0000000"
+      },
+      {
+        "name": "BUILDING B",
+        "stopTime": "11:52",
+        "utcTime": "2020-03-19 18:52:00.0000000"
+      },
+      {
+        "name": "BUILDING C",
+        "stopTime": "11:54",
+        "utcTime": "2020-03-19 18:54:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "12:14",
+        "utcTime": "2020-03-19 19:14:00.0000000"
+      },
+      {
+        "name": "TC",
+        "stopTime": "-",
+        "utcTime": "-"
+      }
+    ],
+    [
+      {
+        "name": "TC",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "11:46",
+        "utcTime": "2020-03-19 18:46:00.0000000"
+      },
+      {
+        "name": "BUILDING A",
+        "stopTime": "12:05",
+        "utcTime": "2020-03-19 19:05:00.0000000"
+      },
+      {
+        "name": "BUILDING B",
+        "stopTime": "12:07",
+        "utcTime": "2020-03-19 19:07:00.0000000"
+      },
+      {
+        "name": "BUILDING C",
+        "stopTime": "12:09",
+        "utcTime": "2020-03-19 19:09:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "12:29",
+        "utcTime": "2020-03-19 19:29:00.0000000"
+      },
+      {
+        "name": "TC",
+        "stopTime": "-",
+        "utcTime": "-"
+      }
+    ],
+    [
+      {
+        "name": "TC",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "12:01",
+        "utcTime": "2020-03-19 19:01:00.0000000"
+      },
+      {
+        "name": "BUILDING A",
+        "stopTime": "12:20",
+        "utcTime": "2020-03-19 19:20:00.0000000"
+      },
+      {
+        "name": "BUILDING B",
+        "stopTime": "12:22",
+        "utcTime": "2020-03-19 19:22:00.0000000"
+      },
+      {
+        "name": "BUILDING C",
+        "stopTime": "12:24",
+        "utcTime": "2020-03-19 19:24:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "12:44",
+        "utcTime": "2020-03-19 19:44:00.0000000"
+      },
+      {
+        "name": "TC",
+        "stopTime": "-",
+        "utcTime": "-"
+      }
+    ],
+    [
+      {
+        "name": "TC",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "12:16",
+        "utcTime": "2020-03-19 19:16:00.0000000"
+      },
+      {
+        "name": "BUILDING A",
+        "stopTime": "12:35",
+        "utcTime": "2020-03-19 19:35:00.0000000"
+      },
+      {
+        "name": "BUILDING B",
+        "stopTime": "12:37",
+        "utcTime": "2020-03-19 19:37:00.0000000"
+      },
+      {
+        "name": "BUILDING C",
+        "stopTime": "12:39",
+        "utcTime": "2020-03-19 19:39:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "12:59",
+        "utcTime": "2020-03-19 19:59:00.0000000"
+      },
+      {
+        "name": "TC",
+        "stopTime": "-",
+        "utcTime": "-"
+      }
+    ],
+    [
+      {
+        "name": "TC",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "12:31",
+        "utcTime": "2020-03-19 19:31:00.0000000"
+      },
+      {
+        "name": "BUILDING A",
+        "stopTime": "12:50",
+        "utcTime": "2020-03-19 19:50:00.0000000"
+      },
+      {
+        "name": "BUILDING B",
+        "stopTime": "12:52",
+        "utcTime": "2020-03-19 19:52:00.0000000"
+      },
+      {
+        "name": "BUILDING C",
+        "stopTime": "12:54",
+        "utcTime": "2020-03-19 19:54:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "13:14",
+        "utcTime": "2020-03-19 20:14:00.0000000"
+      },
+      {
+        "name": "TC",
+        "stopTime": "-",
+        "utcTime": "-"
+      }
+    ],
+    [
+      {
+        "name": "TC",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "12:46",
+        "utcTime": "2020-03-19 19:46:00.0000000"
+      },
+      {
+        "name": "BUILDING A",
+        "stopTime": "13:05",
+        "utcTime": "2020-03-19 20:05:00.0000000"
+      },
+      {
+        "name": "BUILDING B",
+        "stopTime": "13:07",
+        "utcTime": "2020-03-19 20:07:00.0000000"
+      },
+      {
+        "name": "BUILDING C",
+        "stopTime": "13:09",
+        "utcTime": "2020-03-19 20:09:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "13:29",
+        "utcTime": "2020-03-19 20:29:00.0000000"
+      },
+      {
+        "name": "TC",
+        "stopTime": "-",
+        "utcTime": "-"
+      }
+    ],
+    [
+      {
+        "name": "TC",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "13:01",
+        "utcTime": "2020-03-19 20:01:00.0000000"
+      },
+      {
+        "name": "BUILDING A",
+        "stopTime": "13:20",
+        "utcTime": "2020-03-19 20:20:00.0000000"
+      },
+      {
+        "name": "BUILDING B",
+        "stopTime": "13:22",
+        "utcTime": "2020-03-19 20:22:00.0000000"
+      },
+      {
+        "name": "BUILDING C",
+        "stopTime": "13:24",
+        "utcTime": "2020-03-19 20:24:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "13:44",
+        "utcTime": "2020-03-19 20:44:00.0000000"
+      },
+      {
+        "name": "TC",
+        "stopTime": "-",
+        "utcTime": "-"
+      }
+    ],
+    [
+      {
+        "name": "TC",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "13:16",
+        "utcTime": "2020-03-19 20:16:00.0000000"
+      },
+      {
+        "name": "BUILDING A",
+        "stopTime": "13:35",
+        "utcTime": "2020-03-19 20:35:00.0000000"
+      },
+      {
+        "name": "BUILDING B",
+        "stopTime": "13:37",
+        "utcTime": "2020-03-19 20:37:00.0000000"
+      },
+      {
+        "name": "BUILDING C",
+        "stopTime": "13:39",
+        "utcTime": "2020-03-19 20:39:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "13:59",
+        "utcTime": "2020-03-19 20:59:00.0000000"
+      },
+      {
+        "name": "TC",
+        "stopTime": "-",
+        "utcTime": "-"
+      }
+    ],
+    [
+      {
+        "name": "TC",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "13:31",
+        "utcTime": "2020-03-19 20:31:00.0000000"
+      },
+      {
+        "name": "BUILDING A",
+        "stopTime": "13:50",
+        "utcTime": "2020-03-19 20:50:00.0000000"
+      },
+      {
+        "name": "BUILDING B",
+        "stopTime": "13:52",
+        "utcTime": "2020-03-19 20:52:00.0000000"
+      },
+      {
+        "name": "BUILDING C",
+        "stopTime": "13:54",
+        "utcTime": "2020-03-19 20:54:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "14:14",
+        "utcTime": "2020-03-19 21:14:00.0000000"
+      },
+      {
+        "name": "TC",
+        "stopTime": "-",
+        "utcTime": "-"
+      }
+    ],
+    [
+      {
+        "name": "TC",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "13:46",
+        "utcTime": "2020-03-19 20:46:00.0000000"
+      },
+      {
+        "name": "BUILDING A",
+        "stopTime": "14:05",
+        "utcTime": "2020-03-19 21:05:00.0000000"
+      },
+      {
+        "name": "BUILDING B",
+        "stopTime": "14:07",
+        "utcTime": "2020-03-19 21:07:00.0000000"
+      },
+      {
+        "name": "BUILDING C",
+        "stopTime": "14:09",
+        "utcTime": "2020-03-19 21:09:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "TC",
+        "stopTime": "-",
+        "utcTime": "-"
+      }
+    ],
+    [
+      {
+        "name": "TC",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "14:01",
+        "utcTime": "2020-03-19 21:01:00.0000000"
+      },
+      {
+        "name": "BUILDING A",
+        "stopTime": "14:20",
+        "utcTime": "2020-03-19 21:20:00.0000000"
+      },
+      {
+        "name": "BUILDING B",
+        "stopTime": "14:22",
+        "utcTime": "2020-03-19 21:22:00.0000000"
+      },
+      {
+        "name": "BUILDING C",
+        "stopTime": "14:24",
+        "utcTime": "2020-03-19 21:24:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "TC",
+        "stopTime": "-",
+        "utcTime": "-"
+      }
+    ],
+    [
+      {
+        "name": "TC",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "BUILDING A",
+        "stopTime": "14:21",
+        "utcTime": "2020-03-19 21:21:00.0000000"
+      },
+      {
+        "name": "BUILDING B",
+        "stopTime": "14:23",
+        "utcTime": "2020-03-19 21:23:00.0000000"
+      },
+      {
+        "name": "BUILDING C",
+        "stopTime": "14:25",
+        "utcTime": "2020-03-19 21:25:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "TC",
+        "stopTime": "14:45",
+        "utcTime": "2020-03-19 21:45:00.0000000"
+      }
+    ],
+    [
+      {
+        "name": "TC",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "14:16",
+        "utcTime": "2020-03-19 21:16:00.0000000"
+      },
+      {
+        "name": "BUILDING A",
+        "stopTime": "14:35",
+        "utcTime": "2020-03-19 21:35:00.0000000"
+      },
+      {
+        "name": "BUILDING B",
+        "stopTime": "14:37",
+        "utcTime": "2020-03-19 21:37:00.0000000"
+      },
+      {
+        "name": "BUILDING C",
+        "stopTime": "14:39",
+        "utcTime": "2020-03-19 21:39:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "TC",
+        "stopTime": "-",
+        "utcTime": "-"
+      }
+    ],
+    [
+      {
+        "name": "TC",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "BUILDING A",
+        "stopTime": "14:45",
+        "utcTime": "2020-03-19 21:45:00.0000000"
+      },
+      {
+        "name": "BUILDING B",
+        "stopTime": "14:47",
+        "utcTime": "2020-03-19 21:47:00.0000000"
+      },
+      {
+        "name": "BUILDING C",
+        "stopTime": "14:49",
+        "utcTime": "2020-03-19 21:49:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "TC",
+        "stopTime": "15:09",
+        "utcTime": "2020-03-19 22:09:00.0000000"
+      }
+    ],
+    [
+      {
+        "name": "TC",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "BUILDING A",
+        "stopTime": "15:00",
+        "utcTime": "2020-03-19 22:00:00.0000000"
+      },
+      {
+        "name": "BUILDING B",
+        "stopTime": "15:02",
+        "utcTime": "2020-03-19 22:02:00.0000000"
+      },
+      {
+        "name": "BUILDING C",
+        "stopTime": "15:04",
+        "utcTime": "2020-03-19 22:04:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "TC",
+        "stopTime": "15:24",
+        "utcTime": "2020-03-19 22:24:00.0000000"
+      }
+    ],
+    [
+      {
+        "name": "TC",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "BUILDING A",
+        "stopTime": "15:15",
+        "utcTime": "2020-03-19 22:15:00.0000000"
+      },
+      {
+        "name": "BUILDING B",
+        "stopTime": "15:17",
+        "utcTime": "2020-03-19 22:17:00.0000000"
+      },
+      {
+        "name": "BUILDING C",
+        "stopTime": "15:19",
+        "utcTime": "2020-03-19 22:19:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "TC",
+        "stopTime": "15:39",
+        "utcTime": "2020-03-19 22:39:00.0000000"
+      }
+    ],
+    [
+      {
+        "name": "TC",
+        "stopTime": "15:11",
+        "utcTime": "2020-03-19 22:11:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "BUILDING A",
+        "stopTime": "15:30",
+        "utcTime": "2020-03-19 22:30:00.0000000"
+      },
+      {
+        "name": "BUILDING B",
+        "stopTime": "15:32",
+        "utcTime": "2020-03-19 22:32:00.0000000"
+      },
+      {
+        "name": "BUILDING C",
+        "stopTime": "15:34",
+        "utcTime": "2020-03-19 22:34:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "TC",
+        "stopTime": "15:54",
+        "utcTime": "2020-03-19 22:54:00.0000000"
+      }
+    ],
+    [
+      {
+        "name": "TC",
+        "stopTime": "15:26",
+        "utcTime": "2020-03-19 22:26:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "BUILDING A",
+        "stopTime": "15:45",
+        "utcTime": "2020-03-19 22:45:00.0000000"
+      },
+      {
+        "name": "BUILDING B",
+        "stopTime": "15:47",
+        "utcTime": "2020-03-19 22:47:00.0000000"
+      },
+      {
+        "name": "BUILDING C",
+        "stopTime": "15:49",
+        "utcTime": "2020-03-19 22:49:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "TC",
+        "stopTime": "16:09",
+        "utcTime": "2020-03-19 23:09:00.0000000"
+      }
+    ],
+    [
+      {
+        "name": "TC",
+        "stopTime": "15:41",
+        "utcTime": "2020-03-19 22:41:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "BUILDING A",
+        "stopTime": "16:00",
+        "utcTime": "2020-03-19 23:00:00.0000000"
+      },
+      {
+        "name": "BUILDING B",
+        "stopTime": "16:02",
+        "utcTime": "2020-03-19 23:02:00.0000000"
+      },
+      {
+        "name": "BUILDING C",
+        "stopTime": "16:04",
+        "utcTime": "2020-03-19 23:04:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "TC",
+        "stopTime": "16:24",
+        "utcTime": "2020-03-19 23:24:00.0000000"
+      }
+    ],
+    [
+      {
+        "name": "TC",
+        "stopTime": "15:56",
+        "utcTime": "2020-03-19 22:56:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "BUILDING A",
+        "stopTime": "16:15",
+        "utcTime": "2020-03-19 23:15:00.0000000"
+      },
+      {
+        "name": "BUILDING B",
+        "stopTime": "16:17",
+        "utcTime": "2020-03-19 23:17:00.0000000"
+      },
+      {
+        "name": "BUILDING C",
+        "stopTime": "16:19",
+        "utcTime": "2020-03-19 23:19:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "TC",
+        "stopTime": "16:39",
+        "utcTime": "2020-03-19 23:39:00.0000000"
+      }
+    ],
+    [
+      {
+        "name": "TC",
+        "stopTime": "16:11",
+        "utcTime": "2020-03-19 23:11:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "BUILDING A",
+        "stopTime": "16:30",
+        "utcTime": "2020-03-19 23:30:00.0000000"
+      },
+      {
+        "name": "BUILDING B",
+        "stopTime": "16:32",
+        "utcTime": "2020-03-19 23:32:00.0000000"
+      },
+      {
+        "name": "BUILDING C",
+        "stopTime": "16:34",
+        "utcTime": "2020-03-19 23:34:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "TC",
+        "stopTime": "16:54",
+        "utcTime": "2020-03-19 23:54:00.0000000"
+      }
+    ],
+    [
+      {
+        "name": "TC",
+        "stopTime": "16:26",
+        "utcTime": "2020-03-19 23:26:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "BUILDING A",
+        "stopTime": "16:45",
+        "utcTime": "2020-03-19 23:45:00.0000000"
+      },
+      {
+        "name": "BUILDING B",
+        "stopTime": "16:47",
+        "utcTime": "2020-03-19 23:47:00.0000000"
+      },
+      {
+        "name": "BUILDING C",
+        "stopTime": "16:49",
+        "utcTime": "2020-03-19 23:49:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "TC",
+        "stopTime": "17:09",
+        "utcTime": "2020-03-20 00:09:00.0000000"
+      }
+    ],
+    [
+      {
+        "name": "TC",
+        "stopTime": "16:41",
+        "utcTime": "2020-03-19 23:41:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "BUILDING A",
+        "stopTime": "17:00",
+        "utcTime": "2020-03-20 00:00:00.0000000"
+      },
+      {
+        "name": "BUILDING B",
+        "stopTime": "17:02",
+        "utcTime": "2020-03-20 00:02:00.0000000"
+      },
+      {
+        "name": "BUILDING C",
+        "stopTime": "17:04",
+        "utcTime": "2020-03-20 00:04:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "TC",
+        "stopTime": "17:24",
+        "utcTime": "2020-03-20 00:24:00.0000000"
+      }
+    ],
+    [
+      {
+        "name": "TC",
+        "stopTime": "16:56",
+        "utcTime": "2020-03-19 23:56:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "BUILDING A",
+        "stopTime": "17:15",
+        "utcTime": "2020-03-20 00:15:00.0000000"
+      },
+      {
+        "name": "BUILDING B",
+        "stopTime": "17:17",
+        "utcTime": "2020-03-20 00:17:00.0000000"
+      },
+      {
+        "name": "BUILDING C",
+        "stopTime": "17:19",
+        "utcTime": "2020-03-20 00:19:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "TC",
+        "stopTime": "17:39",
+        "utcTime": "2020-03-20 00:39:00.0000000"
+      }
+    ],
+    [
+      {
+        "name": "TC",
+        "stopTime": "17:11",
+        "utcTime": "2020-03-20 00:11:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "BUILDING A",
+        "stopTime": "17:30",
+        "utcTime": "2020-03-20 00:30:00.0000000"
+      },
+      {
+        "name": "BUILDING B",
+        "stopTime": "17:32",
+        "utcTime": "2020-03-20 00:32:00.0000000"
+      },
+      {
+        "name": "BUILDING C",
+        "stopTime": "17:34",
+        "utcTime": "2020-03-20 00:34:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "TC",
+        "stopTime": "17:54",
+        "utcTime": "2020-03-20 00:54:00.0000000"
+      }
+    ],
+    [
+      {
+        "name": "TC",
+        "stopTime": "17:26",
+        "utcTime": "2020-03-20 00:26:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "BUILDING A",
+        "stopTime": "17:45",
+        "utcTime": "2020-03-20 00:45:00.0000000"
+      },
+      {
+        "name": "BUILDING B",
+        "stopTime": "17:47",
+        "utcTime": "2020-03-20 00:47:00.0000000"
+      },
+      {
+        "name": "BUILDING C",
+        "stopTime": "17:49",
+        "utcTime": "2020-03-20 00:49:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "TC",
+        "stopTime": "18:09",
+        "utcTime": "2020-03-20 01:09:00.0000000"
+      }
+    ],
+    [
+      {
+        "name": "TC",
+        "stopTime": "17:41",
+        "utcTime": "2020-03-20 00:41:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "BUILDING A",
+        "stopTime": "18:00",
+        "utcTime": "2020-03-20 01:00:00.0000000"
+      },
+      {
+        "name": "BUILDING B",
+        "stopTime": "18:02",
+        "utcTime": "2020-03-20 01:02:00.0000000"
+      },
+      {
+        "name": "BUILDING C",
+        "stopTime": "18:04",
+        "utcTime": "2020-03-20 01:04:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "TC",
+        "stopTime": "18:24",
+        "utcTime": "2020-03-20 01:24:00.0000000"
+      }
+    ],
+    [
+      {
+        "name": "TC",
+        "stopTime": "17:56",
+        "utcTime": "2020-03-20 00:56:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "BUILDING A",
+        "stopTime": "18:15",
+        "utcTime": "2020-03-20 01:15:00.0000000"
+      },
+      {
+        "name": "BUILDING B",
+        "stopTime": "18:17",
+        "utcTime": "2020-03-20 01:17:00.0000000"
+      },
+      {
+        "name": "BUILDING C",
+        "stopTime": "18:19",
+        "utcTime": "2020-03-20 01:19:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "TC",
+        "stopTime": "18:39",
+        "utcTime": "2020-03-20 01:39:00.0000000"
+      }
+    ],
+    [
+      {
+        "name": "TC",
+        "stopTime": "18:11",
+        "utcTime": "2020-03-20 01:11:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "BUILDING A",
+        "stopTime": "18:30",
+        "utcTime": "2020-03-20 01:30:00.0000000"
+      },
+      {
+        "name": "BUILDING B",
+        "stopTime": "18:32",
+        "utcTime": "2020-03-20 01:32:00.0000000"
+      },
+      {
+        "name": "BUILDING C",
+        "stopTime": "18:34",
+        "utcTime": "2020-03-20 01:34:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "TC",
+        "stopTime": "18:54",
+        "utcTime": "2020-03-20 01:54:00.0000000"
+      }
+    ],
+    [
+      {
+        "name": "TC",
+        "stopTime": "18:26",
+        "utcTime": "2020-03-20 01:26:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "BUILDING A",
+        "stopTime": "18:45",
+        "utcTime": "2020-03-20 01:45:00.0000000"
+      },
+      {
+        "name": "BUILDING B",
+        "stopTime": "18:47",
+        "utcTime": "2020-03-20 01:47:00.0000000"
+      },
+      {
+        "name": "BUILDING C",
+        "stopTime": "18:49",
+        "utcTime": "2020-03-20 01:49:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "TC",
+        "stopTime": "19:09",
+        "utcTime": "2020-03-20 02:09:00.0000000"
+      }
+    ],
+    [
+      {
+        "name": "TC",
+        "stopTime": "18:41",
+        "utcTime": "2020-03-20 01:41:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "BUILDING A",
+        "stopTime": "19:00",
+        "utcTime": "2020-03-20 02:00:00.0000000"
+      },
+      {
+        "name": "BUILDING B",
+        "stopTime": "19:02",
+        "utcTime": "2020-03-20 02:02:00.0000000"
+      },
+      {
+        "name": "BUILDING C",
+        "stopTime": "19:04",
+        "utcTime": "2020-03-20 02:04:00.0000000"
+      },
+      {
+        "name": "PARKING",
+        "stopTime": "-",
+        "utcTime": "-"
+      },
+      {
+        "name": "TC",
+        "stopTime": "19:24",
+        "utcTime": "2020-03-20 02:24:00.0000000"
+      }
+    ]
+  ]
+}
